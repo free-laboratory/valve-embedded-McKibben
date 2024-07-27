@@ -7,3 +7,5 @@ File "Schematic_integrated_mckibben_zigzag_2024-07-26.pdf" is the circuit schema
 
 File "PCB_PCB_multi_layer_2024-07-26.json" is the PCB design file. It can be opened with EasyEDA by JLCPCB. The PCB boards are also ordered from JLCPCB.
 
+"ctrl_ui.py" is a python serial monitor based on pygame. We developed it for communication with the actuator.
+The folder "data" is copied from one of the pygame_gui example. It contains fonts and design elements for the gui application.
